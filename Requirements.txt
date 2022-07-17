@@ -1,0 +1,12 @@
+pyttsx3
+speechrecognition
+wikipedia
+internet
+wolframalpha
+requests
+twilio
+clint
+bs4
+opencv-python
+feedparser
+pyjokes
