@@ -1,31 +1,32 @@
-import pyttsx3 #pip install pyttsx3
-import speech_recognition as sr #pip install speechRecognition
-import datetime
-import wikipedia #pip install wikipedia
-import webbrowser
-import os
-import smtplib
-import subprocess
-import wolframalpha
-import requests
-import shutil
-from twilio.rest import Client
-from clint.textui import progress
-from bs4 import BeautifulSoup
-import win32com.client as wincl
-from urllib.request import urlopen
-import ctypes
-import pyjokes
-import feedparser
-import tkinter
-import json
-import random
-import operator
-import cv2
-import winshell
-import shutil
-import re
-
+try:
+    import pyttsx3 #pip install pyttsx3
+    import speech_recognition as sr #pip install speechRecognition
+    import datetime
+    import wikipedia #pip install wikipedia
+    import webbrowser
+    import os
+    import smtplib
+    import subprocess
+    import wolframalpha
+    import requests
+    import shutil
+    from twilio.rest import Client
+    from clint.textui import progress
+    from bs4 import BeautifulSoup
+    import win32com.client as wincl
+    from urllib.request import urlopen
+    import ctypes
+    import pyjokes
+    import feedparser
+    import tkinter
+    import json
+    import random
+    import operator
+    import cv2
+    import winshell
+    import shutil
+    import re
+    from AppOpener import open
 
 
 
